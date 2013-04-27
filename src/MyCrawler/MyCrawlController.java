@@ -24,6 +24,8 @@ public class MyCrawlController {
     	    /* String crawlStorageFolder = "/data/crawl/root";
     	     String storageFolder = "/data/crawl/sandaha";*/
     	     
+    	
+    	     //Hello Test
     	     String crawlStorageFolder = "/data/crawl/root";
     	     String storageFolder = "/data/crawl/zhubajieseller";
 
